@@ -13,6 +13,8 @@
   <script defer src="game.js"></script>
   <script defer src="recall.js"></script>
   <script defer src="storage.js"></script>
+  <script defer src="atom.js"></script>
+  <script defer src="atom-view.js"></script>
   <script defer src="app.js"></script>
 </head>
 <body>
@@ -31,22 +33,21 @@
   <div class="page-shell">
     <aside id="round-panel" aria-label="Round information"></aside>
     <main id="main" tabindex="-1">
-      <div class="section-label"><span id="mode-label">01 / CLASSIC PRACTICE</span><span class="offline-badge"><i></i> OFFLINE READY</span></div>
+      <div class="section-label"><span id="mode-label">01 / CLASSIC PRACTICE</span></div>
       <div id="play-area"></div>
       <p id="announcement" class="announcement" role="status" aria-live="polite" aria-atomic="true"></p>
       <p id="save-notice" class="save-notice" role="status" hidden></p>
     </main>
   </div>
-  <footer class="site-footer"><span>Small experiments. Lasting knowledge.</span><span>118 ELEMENTS <b>·</b> UNLIMITED PRACTICE</span></footer>
   <dialog id="help-dialog" aria-labelledby="help-title">
     <div class="dialog-header"><h2 id="help-title">How to play</h2><button type="button" class="icon-button" data-close aria-label="Close help">×</button></div>
     <div id="help-copy"></div>
   </dialog>
   <dialog id="reference-dialog" aria-labelledby="reference-title">
-    <div class="dialog-header"><div><p class="eyebrow">118 POSSIBILITIES</p><h2 id="reference-title">The periodic table.</h2></div><button type="button" class="icon-button" data-close aria-label="Close element reference">×</button></div>
+    <div class="dialog-header"><h2 id="reference-title">The periodic table<span>.</span></h2><button type="button" class="icon-button" data-close aria-label="Close element reference">×</button></div>
     <label for="reference-search" class="input-label">Find an element</label>
     <input id="reference-search" type="search" placeholder="Name, symbol, number or family" autocomplete="off">
-    <p class="reference-guide" id="reference-guide">Groups across, periods down. Search highlights matches in place. Scroll sideways on smaller screens.</p>
+    <p class="reference-guide" id="reference-guide">Select an element to explore its 3D atom model.</p>
     <div id="reference-legend" class="reference-legend" aria-label="Element families"></div>
     <div class="reference-scroll" tabindex="0" role="region" aria-label="Scrollable periodic table" aria-describedby="reference-guide"><table id="reference-table" class="periodic-table"><caption class="sr-only">Periodic table of all 118 elements. Lanthanides and actinides appear in two rows below the main table.</caption></table></div>
     <p id="reference-count" class="small-copy" role="status"></p>

@@ -16,7 +16,13 @@ test('both game modes work without CommonJS, fetch, or any network API',()=>{
     count:ElementleElements.length,
     classic:ElementleGame.getStatus(ElementleGame.submitGuess({answer:26,guesses:[],hintIndex:0,hintUsed:false},26,ElementleElements).round),
     recall:ElementleRecall.getProgress(ElementleRecall.submitAnswers({answer:26,attempts:[]},{name:'iron',symbol:'fe'},ElementleElements).round,ElementleElements).status,
-    storage:ElementleStorage.loadSession(()=>{throw Error('Blocked');},ElementleElements).session
+    storage:ElementleStorage.loadSession(()=>{throw Error('Blocked');},ElementleElements).session,
+    atomElectrons:ElementleAtom.occupiedOrbitals(ElementleAtom.expandConfiguration(ElementleElements[117],ElementleElements)).reduce((sum,o)=>sum+o.electrons,0),
+    atomParticles:ElementleAtom.nucleus(118,ElementleElements[117].isotope.massNumber).length,
+    atomViewer:typeof ElementleAtomView.create,
+    atomDialog:typeof ElementleAtomView.openDialog
   })`,context);
   assert.equal(result.count,118);assert.equal(result.classic,'won');assert.equal(result.recall,'won');assert.equal(result.storage,null);
+  assert.equal(result.atomElectrons,118);assert.equal(result.atomParticles,294);assert.equal(result.atomViewer,'function');
+  assert.equal(result.atomDialog,'function');
 });

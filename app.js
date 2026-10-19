@@ -14,6 +14,7 @@
   if(!session[session.activeMode])session[session.activeMode]=session.activeMode==='classic'?game.newRound(data):recall.newRound(data);
   let classicDraft='', hintVisible=Boolean(session.classic?.hintUsed), suggestions=[], suggestionIndex=-1, suggestionInput=null;
   let recallDraft={name:'',symbol:''},aliasNote='';
+  let atomView=null;
   const element=n=>data.find(e=>e.atomicNumber===n);
   function announce(message,error=false) {
     const status=$('#announcement'); status.classList.toggle('error',error); status.textContent=message;
@@ -49,6 +50,7 @@
     result.append(copy,button('Next random element ↗','primary-button',onNext));area.append(result);
   }
   function renderClassic() {
+    atomView?.destroy();atomView=null;
     $('#round-panel').classList.remove('recall-sidebar');
     const round=session.classic, answer=element(round.answer), status=game.getStatus(round);
     renderSidebar(round.guesses.length,status);
@@ -115,6 +117,8 @@
       const item=node('div');item.append(node('dt','',label),node('dd','',String(value)));if(note)item.append(node('dd','property-note',note));properties.append(item);
     }
     aside.append(properties,node('p','recall-clue',target.recallClue));
+    if(atomView?.atomicNumber!==target.atomicNumber){atomView?.destroy();atomView=ElementleAtomView.create(target,data);}
+    aside.append(atomView.element);
     const counter=node('section','side-section recall-progress');counter.append(node('p','side-label','SHARED ATTEMPTS'));
     const number=node('div','attempt-count');number.append(node('strong','',String(round.attempts.length).padStart(2,'0')),node('span','','/ 08 attempts'));counter.append(number,node('p','small-copy',progress.status==='playing'?'One submission. Two chances to remember.':progress.status==='won'?'Both pieces of the puzzle, found.':'Keep the clues. Try another element.'));aside.append(counter);
   }
@@ -262,7 +266,9 @@
           cell.className=`reference-element${value?(match?' search-match':' search-muted'):''}`;
           cell.dataset.family=e.family;cell.dataset.atomicNumber=e.atomicNumber;
           cell.title=`${e.name} (${e.symbol}) · ${e.family} · Atomic mass: ${e.atomicMass.display}`;
-          cell.append(node('span','reference-number',String(e.atomicNumber)),node('strong','reference-symbol',e.symbol),node('span','reference-name',e.name),node('span','sr-only',`${e.family}. Atomic mass: ${e.atomicMass.display}`));
+          const tile=button('','reference-model-button',()=>ElementleAtomView.openDialog(e,data,{title:`${e.name} · ${e.symbol}`,onClose(){if(tile.isConnected)tile.focus({preventScroll:true});}}));
+          tile.setAttribute('aria-label',`View ${e.name} (${e.symbol}) atom model`);
+          tile.append(node('span','reference-number',String(e.atomicNumber)),node('strong','reference-symbol',e.symbol),node('span','reference-name',e.name),node('span','sr-only',`${e.family}. Atomic mass: ${e.atomicMass.display}`));cell.append(tile);
         } else if(group===3&&(period===6||period===7)) {
           cell.className='series-marker';cell.append(node('span','',period===6?'57–71':'89–103'),node('span','',period===6?'Lanthanides ↓':'Actinides ↓'));
         } else cell.className='table-gap';

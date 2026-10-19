@@ -1,0 +1,7 @@
+{
+  "103": {
+    "notation": "[Rn]5f14 7s2 7p1",
+    "source": "https://physics.nist.gov/cgi-bin/Elements/elInfo.pl?element=103",
+    "note": "NIST lists 7p as the outer ground-state electron; the bundled PubChem snapshot still lists the older 6d assignment. Checked 19 October 2026."
+  }
+}

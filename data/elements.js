@@ -15,6 +15,15 @@ const ElementleElements = [
       "value": "gas",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 1,
+      "basis": "most-abundant",
+      "abundance": "[0.999 72, 0.999 99]"
+    },
+    "electronConfiguration": {
+      "notation": "1s1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is 1s1.",
     "hints": [
       "This element belongs to the Nonmetal family.",
@@ -36,6 +45,15 @@ const ElementleElements = [
     "phase": {
       "value": "gas",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 4,
+      "basis": "most-abundant",
+      "abundance": "0.999 998(2)"
+    },
+    "electronConfiguration": {
+      "notation": "1s2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is 1s2.",
     "hints": [
@@ -59,6 +77,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 7,
+      "basis": "most-abundant",
+      "abundance": "[0.922, 0.981]"
+    },
+    "electronConfiguration": {
+      "notation": "[He]2s1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [He]2s1.",
     "hints": [
       "This element belongs to the Alkali Metal family.",
@@ -80,6 +107,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 9,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[He]2s2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [He]2s2.",
     "hints": [
@@ -103,6 +139,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 11,
+      "basis": "most-abundant",
+      "abundance": "[0.796, 0.811]"
+    },
+    "electronConfiguration": {
+      "notation": "[He]2s2 2p1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [He]2s2 2p1.",
     "hints": [
       "This element belongs to the Metalloid family.",
@@ -124,6 +169,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 12,
+      "basis": "most-abundant",
+      "abundance": "[0.9884, 0.9904]"
+    },
+    "electronConfiguration": {
+      "notation": "[He]2s2 2p2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [He]2s2 2p2.",
     "hints": [
@@ -147,6 +201,15 @@ const ElementleElements = [
       "value": "gas",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 14,
+      "basis": "most-abundant",
+      "abundance": "[0.995 78, 0.996 63]"
+    },
+    "electronConfiguration": {
+      "notation": "[He] 2s2 2p3",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [He] 2s2 2p3.",
     "hints": [
       "This element belongs to the Nonmetal family.",
@@ -168,6 +231,15 @@ const ElementleElements = [
     "phase": {
       "value": "gas",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 16,
+      "basis": "most-abundant",
+      "abundance": "[0.997 38, 0.997 76]"
+    },
+    "electronConfiguration": {
+      "notation": "[He]2s2 2p4",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [He]2s2 2p4.",
     "hints": [
@@ -191,6 +263,15 @@ const ElementleElements = [
       "value": "gas",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 19,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[He]2s2 2p5",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [He]2s2 2p5.",
     "hints": [
       "This element belongs to the Halogen family.",
@@ -212,6 +293,15 @@ const ElementleElements = [
     "phase": {
       "value": "gas",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 20,
+      "basis": "most-abundant",
+      "abundance": "0.9048(3)"
+    },
+    "electronConfiguration": {
+      "notation": "[He]2s2 2p6",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [He]2s2 2p6.",
     "hints": [
@@ -235,6 +325,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 23,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Ne]3s1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Ne]3s1.",
     "hints": [
       "This element belongs to the Alkali Metal family.",
@@ -256,6 +355,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 24,
+      "basis": "most-abundant",
+      "abundance": "[0.7888, 0.7905]"
+    },
+    "electronConfiguration": {
+      "notation": "[Ne]3s2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Ne]3s2.",
     "hints": [
@@ -279,6 +387,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 27,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Ne]3s2 3p1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Ne]3s2 3p1.",
     "hints": [
       "This element belongs to the Metal family.",
@@ -300,6 +417,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 28,
+      "basis": "most-abundant",
+      "abundance": "[0.921 91, 0.923 18]"
+    },
+    "electronConfiguration": {
+      "notation": "[Ne]3s2 3p2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Ne]3s2 3p2.",
     "hints": [
@@ -323,6 +449,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 31,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Ne]3s2 3p3",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Ne]3s2 3p3.",
     "hints": [
       "This element belongs to the Nonmetal family.",
@@ -344,6 +479,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 32,
+      "basis": "most-abundant",
+      "abundance": "[0.9441, 0.9529]"
+    },
+    "electronConfiguration": {
+      "notation": "[Ne]3s2 3p4",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Ne]3s2 3p4.",
     "hints": [
@@ -367,6 +511,15 @@ const ElementleElements = [
       "value": "gas",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 35,
+      "basis": "most-abundant",
+      "abundance": "[0.755, 0.761]"
+    },
+    "electronConfiguration": {
+      "notation": "[Ne]3s2 3p5",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Ne]3s2 3p5.",
     "hints": [
       "This element belongs to the Halogen family.",
@@ -388,6 +541,15 @@ const ElementleElements = [
     "phase": {
       "value": "gas",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 40,
+      "basis": "most-abundant",
+      "abundance": "[0.936, 1.000]"
+    },
+    "electronConfiguration": {
+      "notation": "[Ne]3s2 3p6",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Ne]3s2 3p6.",
     "hints": [
@@ -411,6 +573,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 39,
+      "basis": "most-abundant",
+      "abundance": "0.932 581(44)"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Ar]4s1.",
     "hints": [
       "This element belongs to the Alkali Metal family.",
@@ -432,6 +603,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 40,
+      "basis": "most-abundant",
+      "abundance": "0.969 41(156)"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2.",
     "hints": [
@@ -455,6 +635,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 45,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s2 3d1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d1.",
     "hints": [
       "This element belongs to the Transition Metal family.",
@@ -476,6 +665,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 48,
+      "basis": "most-abundant",
+      "abundance": "0.7372(3)"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s2 3d2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d2.",
     "hints": [
@@ -499,6 +697,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 51,
+      "basis": "most-abundant",
+      "abundance": "0.997 50(10)"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s2 3d3",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d3.",
     "hints": [
       "This element belongs to the Transition Metal family.",
@@ -520,6 +727,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 52,
+      "basis": "most-abundant",
+      "abundance": "0.837 89(18)"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]3d5 4s1",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Ar]3d5 4s1.",
     "hints": [
@@ -543,6 +759,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 55,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s2 3d5",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d5.",
     "hints": [
       "This element belongs to the Transition Metal family.",
@@ -564,6 +789,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 56,
+      "basis": "most-abundant",
+      "abundance": "0.917 54(106)"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s2 3d6",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d6.",
     "hints": [
@@ -587,6 +821,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 59,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s2 3d7",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d7.",
     "hints": [
       "This element belongs to the Transition Metal family.",
@@ -608,6 +851,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 58,
+      "basis": "most-abundant",
+      "abundance": "0.680 769(190)"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s2 3d8",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d8.",
     "hints": [
@@ -631,6 +883,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 63,
+      "basis": "most-abundant",
+      "abundance": "0.6915(15)"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s1 3d10",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Ar]4s1 3d10.",
     "hints": [
       "This element belongs to the Transition Metal family.",
@@ -652,6 +913,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 64,
+      "basis": "most-abundant",
+      "abundance": "0.4917(75)"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s2 3d10",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d10.",
     "hints": [
@@ -675,6 +945,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 69,
+      "basis": "most-abundant",
+      "abundance": "0.601 08(50)"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s2 3d10 4p1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d10 4p1.",
     "hints": [
       "This element belongs to the Metal family.",
@@ -696,6 +975,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 74,
+      "basis": "most-abundant",
+      "abundance": "0.3652(12)"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s2 3d10 4p2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d10 4p2.",
     "hints": [
@@ -719,6 +1007,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 75,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s2 3d10 4p3",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d10 4p3.",
     "hints": [
       "This element belongs to the Metalloid family.",
@@ -740,6 +1037,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 80,
+      "basis": "most-abundant",
+      "abundance": "0.4980(36)"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s2 3d10 4p4",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d10 4p4.",
     "hints": [
@@ -763,6 +1069,15 @@ const ElementleElements = [
       "value": "liquid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 79,
+      "basis": "most-abundant",
+      "abundance": "[0.505, 0.508]"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s2 3d10 4p5",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d10 4p5.",
     "hints": [
       "This element belongs to the Halogen family.",
@@ -784,6 +1099,15 @@ const ElementleElements = [
     "phase": {
       "value": "gas",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 84,
+      "basis": "most-abundant",
+      "abundance": "0.569 87(15)"
+    },
+    "electronConfiguration": {
+      "notation": "[Ar]4s2 3d10 4p6",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d10 4p6.",
     "hints": [
@@ -807,6 +1131,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 85,
+      "basis": "most-abundant",
+      "abundance": "0.7217(2)"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Kr]5s1.",
     "hints": [
       "This element belongs to the Alkali Metal family.",
@@ -828,6 +1161,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 88,
+      "basis": "most-abundant",
+      "abundance": "0.8258(35)"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2.",
     "hints": [
@@ -851,6 +1193,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 89,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s2 4d1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d1.",
     "hints": [
       "This element belongs to the Transition Metal family.",
@@ -872,6 +1223,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 90,
+      "basis": "most-abundant",
+      "abundance": "0.5147(6)"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s2 4d2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d2.",
     "hints": [
@@ -895,6 +1255,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 93,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s1 4d4",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Kr]5s1 4d4.",
     "hints": [
       "This element belongs to the Transition Metal family.",
@@ -916,6 +1285,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 98,
+      "basis": "most-abundant",
+      "abundance": "0.242 92(80)"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s1 4d5",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s1 4d5.",
     "hints": [
@@ -939,6 +1317,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 97,
+      "basis": "representative-long-lived",
+      "halfLife": "4.21(16) Ma"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s2 4d5",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d5.",
     "hints": [
       "This element belongs to the Transition Metal family.",
@@ -960,6 +1347,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 102,
+      "basis": "most-abundant",
+      "abundance": "0.3155(14)"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s1 4d7",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s1 4d7.",
     "hints": [
@@ -983,6 +1379,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 103,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s1 4d8",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Kr]5s1 4d8.",
     "hints": [
       "This element belongs to the Transition Metal family.",
@@ -1004,6 +1409,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 106,
+      "basis": "most-abundant",
+      "abundance": "0.2733(3)"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]4d10",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Kr]4d10.",
     "hints": [
@@ -1027,6 +1441,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 107,
+      "basis": "most-abundant",
+      "abundance": "0.518 39(8)"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s1 4d10",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Kr]5s1 4d10.",
     "hints": [
       "This element belongs to the Transition Metal family.",
@@ -1048,6 +1471,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 114,
+      "basis": "most-abundant",
+      "abundance": "0.287 54(81)"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s2 4d10",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d10.",
     "hints": [
@@ -1071,6 +1503,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 115,
+      "basis": "most-abundant",
+      "abundance": "0.957 19(52)"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s2 4d10 5p1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d10 5p1.",
     "hints": [
       "This element belongs to the Metal family.",
@@ -1092,6 +1533,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 120,
+      "basis": "most-abundant",
+      "abundance": "0.3258(9)"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s2 4d10 5p2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d10 5p2.",
     "hints": [
@@ -1115,6 +1565,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 121,
+      "basis": "most-abundant",
+      "abundance": "0.5721(5)"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s2 4d10 5p3",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d10 5p3.",
     "hints": [
       "This element belongs to the Metalloid family.",
@@ -1136,6 +1595,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 130,
+      "basis": "most-abundant",
+      "abundance": "0.3408(62)"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s2 4d10 5p4",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d10 5p4.",
     "hints": [
@@ -1159,6 +1627,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 127,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s2 4d10 5p5",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d10 5p5.",
     "hints": [
       "This element belongs to the Halogen family.",
@@ -1180,6 +1657,15 @@ const ElementleElements = [
     "phase": {
       "value": "gas",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 132,
+      "basis": "most-abundant",
+      "abundance": "0.269 09(55)"
+    },
+    "electronConfiguration": {
+      "notation": "[Kr]5s2 4d10 5p6",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d10 5p6.",
     "hints": [
@@ -1203,6 +1689,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 133,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s1.",
     "hints": [
       "This element belongs to the Alkali Metal family.",
@@ -1224,6 +1719,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 138,
+      "basis": "most-abundant",
+      "abundance": "0.7170(29)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2.",
     "hints": [
@@ -1247,6 +1751,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 139,
+      "basis": "most-abundant",
+      "abundance": "0.999 1119(71)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 5d1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 5d1.",
     "hints": [
       "This element belongs to the Lanthanide family.",
@@ -1268,6 +1781,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 140,
+      "basis": "most-abundant",
+      "abundance": "0.884 50(51)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f1 5d1",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f1 5d1.",
     "hints": [
@@ -1291,6 +1813,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 141,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f3",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f3.",
     "hints": [
       "This element belongs to the Lanthanide family.",
@@ -1312,6 +1843,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 142,
+      "basis": "most-abundant",
+      "abundance": "0.271 52(40)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f4",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f4.",
     "hints": [
@@ -1335,6 +1875,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 145,
+      "basis": "representative-long-lived",
+      "halfLife": "17.7(4) a"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f5",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f5.",
     "hints": [
       "This element belongs to the Lanthanide family.",
@@ -1356,6 +1905,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 152,
+      "basis": "most-abundant",
+      "abundance": "0.2674(9)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f6",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f6.",
     "hints": [
@@ -1379,6 +1937,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 153,
+      "basis": "most-abundant",
+      "abundance": "0.5219(6)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f7",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f7.",
     "hints": [
       "This element belongs to the Lanthanide family.",
@@ -1400,6 +1967,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 158,
+      "basis": "most-abundant",
+      "abundance": "0.248 20(20)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f7 5d1",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f7 5d1.",
     "hints": [
@@ -1423,6 +1999,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 159,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f9",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f9.",
     "hints": [
       "This element belongs to the Lanthanide family.",
@@ -1444,6 +2029,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 164,
+      "basis": "most-abundant",
+      "abundance": "0.282 60(54)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f10",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f10.",
     "hints": [
@@ -1467,6 +2061,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 165,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f11",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f11.",
     "hints": [
       "This element belongs to the Lanthanide family.",
@@ -1488,6 +2091,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 166,
+      "basis": "most-abundant",
+      "abundance": "0.335 03(36)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f12",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f12.",
     "hints": [
@@ -1511,6 +2123,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 169,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f13",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f13.",
     "hints": [
       "This element belongs to the Lanthanide family.",
@@ -1532,6 +2153,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 174,
+      "basis": "most-abundant",
+      "abundance": "0.318 96(26)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f14",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14.",
     "hints": [
@@ -1555,6 +2185,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 175,
+      "basis": "most-abundant",
+      "abundance": "0.974 14(5)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f14 5d1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d1.",
     "hints": [
       "This element belongs to the Lanthanide family.",
@@ -1576,6 +2215,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 180,
+      "basis": "most-abundant",
+      "abundance": "0.3512(16)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f14 5d2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d2.",
     "hints": [
@@ -1599,6 +2247,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 181,
+      "basis": "most-abundant",
+      "abundance": "0.999 8824(23)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f14 5d3",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d3.",
     "hints": [
       "This element belongs to the Transition Metal family.",
@@ -1620,6 +2277,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 184,
+      "basis": "most-abundant",
+      "abundance": "0.3064(2)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f14 5d4",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d4.",
     "hints": [
@@ -1643,6 +2309,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 187,
+      "basis": "most-abundant",
+      "abundance": "0.6260(5)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f14 5d5",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d5.",
     "hints": [
       "This element belongs to the Transition Metal family.",
@@ -1664,6 +2339,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 192,
+      "basis": "most-abundant",
+      "abundance": "0.4078(32)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f14 5d6",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d6.",
     "hints": [
@@ -1687,6 +2371,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 193,
+      "basis": "most-abundant",
+      "abundance": "0.6277(9)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f14 5d7",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d7.",
     "hints": [
       "This element belongs to the Transition Metal family.",
@@ -1708,6 +2401,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 195,
+      "basis": "most-abundant",
+      "abundance": "0.337 75(240)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s1 4f14 5d9",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s1 4f14 5d9.",
     "hints": [
@@ -1731,6 +2433,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 197,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s1 4f14 5d10",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s1 4f14 5d10.",
     "hints": [
       "This element belongs to the Transition Metal family.",
@@ -1752,6 +2463,15 @@ const ElementleElements = [
     "phase": {
       "value": "liquid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 202,
+      "basis": "most-abundant",
+      "abundance": "0.2974(13)"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f14 5d10",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d10.",
     "hints": [
@@ -1775,6 +2495,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 205,
+      "basis": "most-abundant",
+      "abundance": "[0.7041, 0.7056]"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f14 5d10 6p1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p1.",
     "hints": [
       "This element belongs to the Metal family.",
@@ -1796,6 +2525,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 208,
+      "basis": "variable-abundance",
+      "abundance": "[0.0338, 0.9775]"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f14 5d10 6p2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p2.",
     "hints": [
@@ -1819,6 +2557,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 209,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f14 5d10 6p3",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p3.",
     "hints": [
       "This element belongs to the Metal family.",
@@ -1840,6 +2587,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 209,
+      "basis": "representative-long-lived",
+      "halfLife": "124(3) a"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f14 5d10 6p4",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p4.",
     "hints": [
@@ -1863,6 +2619,15 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
+    "isotope": {
+      "massNumber": 210,
+      "basis": "representative-long-lived",
+      "halfLife": "8.1(4) h"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f14 5d10 6p5",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p5.",
     "hints": [
       "This element belongs to the Halogen family.",
@@ -1884,6 +2649,15 @@ const ElementleElements = [
     "phase": {
       "value": "gas",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 222,
+      "basis": "representative-long-lived",
+      "halfLife": "3.8215(2) d"
+    },
+    "electronConfiguration": {
+      "notation": "[Xe]6s2 4f14 5d10 6p6",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p6.",
     "hints": [
@@ -1907,6 +2681,15 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
+    "isotope": {
+      "massNumber": 223,
+      "basis": "representative-long-lived",
+      "halfLife": "22.00(7) min"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Rn]7s1.",
     "hints": [
       "This element belongs to the Alkali Metal family.",
@@ -1928,6 +2711,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 226,
+      "basis": "representative-long-lived",
+      "halfLife": "1600(7) a"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2.",
     "hints": [
@@ -1951,6 +2743,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 227,
+      "basis": "representative-long-lived",
+      "halfLife": "21.772(3) a"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 6d1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 6d1.",
     "hints": [
       "This element belongs to the Actinide family.",
@@ -1972,6 +2773,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 232,
+      "basis": "most-abundant",
+      "abundance": "0.9998(2)"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 6d2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 6d2.",
     "hints": [
@@ -1995,6 +2805,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 231,
+      "basis": "most-abundant",
+      "abundance": "1"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f2 6d1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f2 6d1.",
     "hints": [
       "This element belongs to the Actinide family.",
@@ -2016,6 +2835,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 238,
+      "basis": "most-abundant",
+      "abundance": "0.992 742(10)"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f3 6d1",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f3 6d1.",
     "hints": [
@@ -2039,6 +2867,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 237,
+      "basis": "representative-long-lived",
+      "halfLife": "2144(7) ka"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f4 6d1",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f4 6d1.",
     "hints": [
       "This element belongs to the Actinide family.",
@@ -2060,6 +2897,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 244,
+      "basis": "representative-long-lived",
+      "halfLife": "81.3(3) Ma"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f6",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f6.",
     "hints": [
@@ -2083,6 +2929,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 243,
+      "basis": "representative-long-lived",
+      "halfLife": "7.350(9) ka"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f7",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f7.",
     "hints": [
       "This element belongs to the Actinide family.",
@@ -2104,6 +2959,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 247,
+      "basis": "representative-long-lived",
+      "halfLife": "15.6(5) Ma"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f7 6d1",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f7 6d1.",
     "hints": [
@@ -2127,6 +2991,15 @@ const ElementleElements = [
       "value": "solid",
       "certainty": "measured"
     },
+    "isotope": {
+      "massNumber": 247,
+      "basis": "representative-long-lived",
+      "halfLife": "1.38(25) ka"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f9",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f9.",
     "hints": [
       "This element belongs to the Actinide family.",
@@ -2148,6 +3021,15 @@ const ElementleElements = [
     "phase": {
       "value": "solid",
       "certainty": "measured"
+    },
+    "isotope": {
+      "massNumber": 251,
+      "basis": "representative-long-lived",
+      "halfLife": "898(44) a"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f10",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f10.",
     "hints": [
@@ -2171,6 +3053,15 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
+    "isotope": {
+      "massNumber": 252,
+      "basis": "representative-long-lived",
+      "halfLife": "471.7(1.9) d"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f11",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f11.",
     "hints": [
       "This element belongs to the Actinide family.",
@@ -2192,6 +3083,15 @@ const ElementleElements = [
     "phase": {
       "value": "unknown",
       "certainty": "unknown"
+    },
+    "isotope": {
+      "massNumber": 257,
+      "basis": "representative-long-lived",
+      "halfLife": "100.5(2) d"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn] 5f12 7s2",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Rn] 5f12 7s2.",
     "hints": [
@@ -2215,6 +3115,15 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
+    "isotope": {
+      "massNumber": 258,
+      "basis": "representative-long-lived",
+      "halfLife": "51.6(3) d"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f13",
+      "certainty": "tabulated"
+    },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f13.",
     "hints": [
       "This element belongs to the Actinide family.",
@@ -2236,6 +3145,15 @@ const ElementleElements = [
     "phase": {
       "value": "unknown",
       "certainty": "unknown"
+    },
+    "isotope": {
+      "massNumber": 259,
+      "basis": "representative-long-lived",
+      "halfLife": "58(5) min"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f14",
+      "certainty": "tabulated"
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f14.",
     "hints": [
@@ -2259,11 +3177,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f14 6d1.",
+    "isotope": {
+      "massNumber": 266,
+      "basis": "representative-long-lived",
+      "halfLife": "22(14) h"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]5f14 7s2 7p1",
+      "certainty": "tabulated"
+    },
+    "recallClue": "Its tabulated electron configuration is [Rn]5f14 7s2 7p1.",
     "hints": [
       "This element belongs to the Actinide family.",
       "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f14 6d1."
+      "Its tabulated electron configuration is [Rn]5f14 7s2 7p1."
     ]
   },
   {
@@ -2281,11 +3208,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f14 6d2.",
+    "isotope": {
+      "massNumber": 267,
+      "basis": "representative-long-lived",
+      "halfLife": "2.5(1.5) h"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f14 6d2",
+      "certainty": "predicted"
+    },
+    "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d2.",
     "hints": [
       "This element belongs to the Transition Metal family.",
       "Look in period 7, group 4 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f14 6d2."
+      "Its predicted electron configuration is [Rn]7s2 5f14 6d2."
     ]
   },
   {
@@ -2303,11 +3239,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f14 6d3.",
+    "isotope": {
+      "massNumber": 268,
+      "basis": "representative-long-lived",
+      "halfLife": "29(3) h"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f14 6d3",
+      "certainty": "predicted"
+    },
+    "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d3.",
     "hints": [
       "This element belongs to the Transition Metal family.",
       "Look in period 7, group 5 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f14 6d3."
+      "Its predicted electron configuration is [Rn]7s2 5f14 6d3."
     ]
   },
   {
@@ -2325,11 +3270,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f14 6d4.",
+    "isotope": {
+      "massNumber": 269,
+      "basis": "representative-long-lived",
+      "halfLife": "5(2) min"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f14 6d4",
+      "certainty": "predicted"
+    },
+    "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d4.",
     "hints": [
       "This element belongs to the Transition Metal family.",
       "Look in period 7, group 6 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f14 6d4."
+      "Its predicted electron configuration is [Rn]7s2 5f14 6d4."
     ]
   },
   {
@@ -2347,11 +3301,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f14 6d5.",
+    "isotope": {
+      "massNumber": 270,
+      "basis": "representative-long-lived",
+      "halfLife": "3.8(3.0) min"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f14 6d5",
+      "certainty": "predicted"
+    },
+    "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d5.",
     "hints": [
       "This element belongs to the Transition Metal family.",
       "Look in period 7, group 7 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f14 6d5."
+      "Its predicted electron configuration is [Rn]7s2 5f14 6d5."
     ]
   },
   {
@@ -2369,11 +3332,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f14 6d6.",
+    "isotope": {
+      "massNumber": 269,
+      "basis": "representative-long-lived",
+      "halfLife": "15(7) s"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f14 6d6",
+      "certainty": "predicted"
+    },
+    "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d6.",
     "hints": [
       "This element belongs to the Transition Metal family.",
       "Look in period 7, group 8 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f14 6d6."
+      "Its predicted electron configuration is [Rn]7s2 5f14 6d6."
     ]
   },
   {
@@ -2391,11 +3363,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f14 6d7 (calculated).",
+    "isotope": {
+      "massNumber": 277,
+      "basis": "representative-long-lived",
+      "halfLife": "9(6) s"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f14 6d7",
+      "certainty": "predicted"
+    },
+    "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d7.",
     "hints": [
       "This element belongs to the Transition Metal family.",
       "Look in period 7, group 9 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f14 6d7 (calculated)."
+      "Its predicted electron configuration is [Rn]7s2 5f14 6d7."
     ]
   },
   {
@@ -2413,11 +3394,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f14 6d8 (predicted).",
+    "isotope": {
+      "massNumber": 281,
+      "basis": "representative-long-lived",
+      "halfLife": "14(3) s"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f14 6d8",
+      "certainty": "predicted"
+    },
+    "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d8.",
     "hints": [
       "This element belongs to the Transition Metal family.",
       "Look in period 7, group 10 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f14 6d8 (predicted)."
+      "Its predicted electron configuration is [Rn]7s2 5f14 6d8."
     ]
   },
   {
@@ -2435,11 +3425,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f14 6d9 (predicted).",
+    "isotope": {
+      "massNumber": 282,
+      "basis": "representative-long-lived",
+      "halfLife": "130(50) s"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f14 6d9",
+      "certainty": "predicted"
+    },
+    "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d9.",
     "hints": [
       "This element belongs to the Transition Metal family.",
       "Look in period 7, group 11 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f14 6d9 (predicted)."
+      "Its predicted electron configuration is [Rn]7s2 5f14 6d9."
     ]
   },
   {
@@ -2457,11 +3456,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f14 6d10 (predicted).",
+    "isotope": {
+      "massNumber": 285,
+      "basis": "representative-long-lived",
+      "halfLife": "30(8) s"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 5f14 6d10",
+      "certainty": "predicted"
+    },
+    "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d10.",
     "hints": [
       "This element belongs to the Transition Metal family.",
       "Look in period 7, group 12 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f14 6d10 (predicted)."
+      "Its predicted electron configuration is [Rn]7s2 5f14 6d10."
     ]
   },
   {
@@ -2479,11 +3487,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]5f14 6d10 7s2 7p1 (predicted).",
+    "isotope": {
+      "massNumber": 286,
+      "basis": "representative-long-lived",
+      "halfLife": "12(5) s"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]5f14 6d10 7s2 7p1",
+      "certainty": "predicted"
+    },
+    "recallClue": "Its predicted electron configuration is [Rn]5f14 6d10 7s2 7p1.",
     "hints": [
       "This element belongs to the Metal family.",
       "Look in period 7, group 13 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]5f14 6d10 7s2 7p1 (predicted)."
+      "Its predicted electron configuration is [Rn]5f14 6d10 7s2 7p1."
     ]
   },
   {
@@ -2501,11 +3518,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]7s2 7p2 5f14 6d10 (predicted).",
+    "isotope": {
+      "massNumber": 290,
+      "basis": "representative-long-lived",
+      "halfLife": "80(60) s"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 7p2 5f14 6d10",
+      "certainty": "predicted"
+    },
+    "recallClue": "Its predicted electron configuration is [Rn]7s2 7p2 5f14 6d10.",
     "hints": [
       "This element belongs to the Metal family.",
       "Look in period 7, group 14 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 7p2 5f14 6d10 (predicted)."
+      "Its predicted electron configuration is [Rn]7s2 7p2 5f14 6d10."
     ]
   },
   {
@@ -2523,11 +3549,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]7s2 7p3 5f14 6d10 (predicted).",
+    "isotope": {
+      "massNumber": 290,
+      "basis": "representative-long-lived",
+      "halfLife": "840(360) ms"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 7p3 5f14 6d10",
+      "certainty": "predicted"
+    },
+    "recallClue": "Its predicted electron configuration is [Rn]7s2 7p3 5f14 6d10.",
     "hints": [
       "This element belongs to the Metal family.",
       "Look in period 7, group 15 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 7p3 5f14 6d10 (predicted)."
+      "Its predicted electron configuration is [Rn]7s2 7p3 5f14 6d10."
     ]
   },
   {
@@ -2545,11 +3580,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]7s2 7p4 5f14 6d10 (predicted).",
+    "isotope": {
+      "massNumber": 293,
+      "basis": "representative-long-lived",
+      "halfLife": "70(30) ms"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 7p4 5f14 6d10",
+      "certainty": "predicted"
+    },
+    "recallClue": "Its predicted electron configuration is [Rn]7s2 7p4 5f14 6d10.",
     "hints": [
       "This element belongs to the Metal family.",
       "Look in period 7, group 16 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 7p4 5f14 6d10 (predicted)."
+      "Its predicted electron configuration is [Rn]7s2 7p4 5f14 6d10."
     ]
   },
   {
@@ -2567,11 +3611,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]7s2 7p5 5f14 6d10 (predicted).",
+    "isotope": {
+      "massNumber": 294,
+      "basis": "representative-long-lived",
+      "halfLife": "70(30) ms"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 7p5 5f14 6d10",
+      "certainty": "predicted"
+    },
+    "recallClue": "Its predicted electron configuration is [Rn]7s2 7p5 5f14 6d10.",
     "hints": [
       "This element belongs to the Halogen family.",
       "Look in period 7, group 17 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 7p5 5f14 6d10 (predicted)."
+      "Its predicted electron configuration is [Rn]7s2 7p5 5f14 6d10."
     ]
   },
   {
@@ -2589,11 +3642,20 @@ const ElementleElements = [
       "value": "unknown",
       "certainty": "unknown"
     },
-    "recallClue": "Its tabulated electron configuration is [Rn]7s2 7p6 5f14 6d10 (predicted).",
+    "isotope": {
+      "massNumber": 294,
+      "basis": "representative-long-lived",
+      "halfLife": "0.7(3) ms"
+    },
+    "electronConfiguration": {
+      "notation": "[Rn]7s2 7p6 5f14 6d10",
+      "certainty": "predicted"
+    },
+    "recallClue": "Its predicted electron configuration is [Rn]7s2 7p6 5f14 6d10.",
     "hints": [
       "This element belongs to the Noble Gas family.",
       "Look in period 7, group 18 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 7p6 5f14 6d10 (predicted)."
+      "Its predicted electron configuration is [Rn]7s2 7p6 5f14 6d10."
     ]
   }
 ];

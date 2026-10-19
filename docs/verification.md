@@ -2,7 +2,7 @@
 
 ## Automated checks
 
-`node --test` on Node v24.19.0: **30 passed, 0 failed** after the name-only autocomplete and periodic-table reference updates.
+`node --test` on Node v24.19.0: **35 passed, 0 failed** after the atom-model and orbital-colour updates.
 
 Coverage includes all 118 identities, exact official family memberships, period/group boundaries, source-based property fields, input names/symbols/aliases, Classic feedback, random selection across all candidates, no immediate repeats, duplicate/invalid input, eighth-attempt win/loss boundaries, repeated-letter Wordle counts, unequal lengths, locked Recall fields, independent letter knowledge, save/transcript validation, and storage getter/read/write/quota failures.
 
@@ -52,7 +52,25 @@ Browser checks confirmed Recall `ca` lists Cadmium, Calcium, Californium, and Ca
 
 The reference rendered all 118 tiles and 18 group headings, with the complete La–Lu and Ac–Lr series in the lower rows. Searching Iron highlighted exactly one tile and dimmed 117, while an unknown query left all 118 positions present and reported zero matches. At 390px, searching Oxygen scrolled its tile into view within the table. The dialog had no outer vertical overflow; scrolling remained inside its table region. Page client/scroll widths both measured 375px, and Recall suggestions pushed Check answers below them. At 1024px, the name list also stayed above Check answers without page overflow. The temporary viewport override was reset. No warning/error console messages were reported.
 
+## Recall atom model and orbital colours
+
+The full suite includes five model checks: sourced isotope choices; all 118 expanded configurations and neutral electron totals, including Cr/Cu/Pd/Lr exceptions; exact centred nuclei with Z protons and A−Z neutrons; finite reproducible cloud samples and exact occupied-electron markers with correct type metadata; and radial-node phase metadata. The actual classic-script load order also executes the pure atom model without CommonJS or network APIs. Regenerating data produced the same SHA-256 (`257ffd08008b713f781b820d13648aedd7575f3b4aebb52f6d79ee6098f31aa9`). `git diff --check` reported no whitespace errors.
+
+Browser checks in a temporary isolated model page covered hydrogen-1 (1 proton, zero neutrons, 1 electron), iron-56 (26/30/26), lawrencium-266 (103/163/103, including the corrected 7p assignment), and oganesson-294 (118/176/118, labelled predicted). Mouse dragging visibly changed the d-orbital projection. Individual p/d/f orbitals, nucleus-only view, keyboard rotation, zoom and enlarged-view controls worked. The colour legend resolved to mint s `rgb(168,230,189)`, light blue p `rgb(168,216,255)`, lavender d `rgb(212,185,255)`, and pale pink f `rgb(255,194,220)`; clouds/markers use this same CSS palette. Dark red protons and light gray neutrons were visually inspected in nucleus view. The temporary browser fixture was removed after checks.
+
+Full game integration used the separate `localhost:8000` origin to avoid consuming the user's `127.0.0.1` attempts. An accepted guess retained the same model/control instance, nucleus selection and 120% zoom. Classic removed all model canvases/dialogs; returning to Recall restored its round and one canvas. Solving xenon showed isotope 132 with 54 protons, 78 neutrons and 54 electrons; Next changed the target, reset attempts and kept one canvas. Reload restored that new target with its identity hidden. The real Recall sidebar also retained the existing masked identity while displaying the model directly after the clue.
+
+At widths 320, 390, 768 and 1024, there was no horizontal page overflow. At 320/768/1024, client and scroll widths were respectively 305/753/1009 pixels. The model followed the clue, and the shared-attempt counter followed the model without overlap. The 390px enlarged view remained within the viewport. Escape removed the enlarged dialog, preserved its selection in the inline viewer and returned focus to Expand atom model. The viewport override was reset. No warning/error console messages were observed. Saved previews: `docs/preview-atom.jpg` and `docs/preview-atom-nucleus.jpg`.
+
+One independent review found radial phase metadata ignored the radial-wavefunction sign. A failing 2s-node test reproduced it; the fix and full suite passed. The later user request assigns visible colours to orbital types, so phase is retained in sample metadata but is not colour-coded. Shapes, scale, nuclear packing and degenerate-orbital orientations remain explicitly schematic; no exact many-electron or relativistic density calculation is claimed. Physical touch devices and the no-canvas fallback were not separately exercised.
+
+## Periodic-table model access
+
+Browser checks on an isolated local preview verified 118 unique native model buttons. Iron opened a labelled window with mass 56 and 26 protons, 30 neutrons and 26 electrons; zoom and nucleus selection worked. Closing returned focus to Iron without consuming an attempt or clearing the search. Keyboard Enter opened hydrogen with 1/0/1 counts, and Escape removed its model while preserving the underlying table's scroll coordinates and returning focus. Oganesson showed 118/176/118 counts; at 390px its dialog measured 337px wide and document client/scroll widths both measured 375px. Repeated closing removed model canvases. Recall expansion retained its generic title, nucleus selection and 120% zoom, and returned focus to Expand atom model; Elements remained hidden during active Recall. No warning/error console messages were reported. The viewport override was reset. Saved preview: `docs/preview-reference-model.jpg`.
+
 ## Limits of verification
+
+Interface text cleanup: browser inspection confirmed removal of the most-abundant-isotope caption, orbital-marker summary and always-visible schematic note from the shared model viewer, plus the requested reference guide clauses, reference eyebrow, footer and offline badge. The periodic-table title resolves to green `rgb(134,201,138)` with a white `rgb(255,255,255)` full stop. Hydrogen still rendered its model, switched to nucleus-only view and zoomed to 120%, with no warning/error console messages. Preview: `docs/preview-table-clean.jpg`.
 
 - The browser tool prohibits `file:` navigation. Direct opening is supported by the packaging/classic-script design but was not exercised through that tool; browser checks used the documented localhost alternative.
 - No system-wide internet disconnection or fresh browser profile was available through the browser controls. Network-free rule execution, local resource references, and the restrictive CSP were checked; a physically disconnected first-open browser test is not claimed.
