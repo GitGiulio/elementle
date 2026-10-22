@@ -26,9 +26,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is 1s1.",
     "hints": [
-      "This element belongs to the Nonmetal family.",
-      "Look in period 1, group 1 of the periodic table.",
-      "Its tabulated electron configuration is 1s1."
+      "It is a colourless gas with a lower density than any other gas.",
+      "Fuel cells can combine it with oxygen to produce electricity and water.",
+      "Henry Cavendish distinguished this flammable gas from other gases in 1766."
     ]
   },
   {
@@ -57,9 +57,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is 1s2.",
     "hints": [
-      "This element belongs to the Noble Gas family.",
-      "Look in period 1, group 18 of the periodic table.",
-      "Its tabulated electron configuration is 1s2."
+      "It can lift balloons without the fire risk of hydrogen.",
+      "Its liquid form cools the superconducting magnets in MRI scanners.",
+      "Astronomers detected it in sunlight in 1868, before it was identified on Earth."
     ]
   },
   {
@@ -88,9 +88,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [He]2s1.",
     "hints": [
-      "This element belongs to the Alkali Metal family.",
-      "Look in period 2, group 1 of the periodic table.",
-      "Its tabulated electron configuration is [He]2s1."
+      "This soft, silvery metal has the lowest density of any metal.",
+      "It is a key ingredient in rechargeable batteries for phones and electric cars.",
+      "Johan August Arfvedson identified it in a Swedish mineral in 1817."
     ]
   },
   {
@@ -119,9 +119,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [He]2s2.",
     "hints": [
-      "This element belongs to the Alkaline Earth Metal family.",
-      "Look in period 2, group 2 of the periodic table.",
-      "Its tabulated electron configuration is [He]2s2."
+      "It is found in the mineral family that includes emerald and aquamarine.",
+      "Thin foils of this metal let X-rays pass through, making useful windows for X-ray equipment.",
+      "Adding it to copper produces alloys used for springs and non-sparking tools."
     ]
   },
   {
@@ -150,9 +150,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [He]2s2 2p1.",
     "hints": [
-      "This element belongs to the Metalloid family.",
-      "Look in period 2, group 13 of the periodic table.",
-      "Its tabulated electron configuration is [He]2s2 2p1."
+      "Its oxide helps make glass that withstands heat, including laboratory glassware.",
+      "One of its isotopes absorbs neutrons and helps control nuclear reactors.",
+      "Plants need it to build healthy cell walls."
     ]
   },
   {
@@ -181,9 +181,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [He]2s2 2p2.",
     "hints": [
-      "This element belongs to the Nonmetal family.",
-      "Look in period 2, group 14 of the periodic table.",
-      "Its tabulated electron configuration is [He]2s2 2p2."
+      "Diamond and graphite are very different-looking forms of this same element.",
+      "Its soft graphite form makes the marks left by ordinary pencils.",
+      "Its ability to form strong chains is central to the chemistry of fuels and plastics."
     ]
   },
   {
@@ -212,9 +212,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [He] 2s2 2p3.",
     "hints": [
-      "This element belongs to the Nonmetal family.",
-      "Look in period 2, group 15 of the periodic table.",
-      "Its tabulated electron configuration is [He] 2s2 2p3."
+      "This colourless gas makes up roughly four fifths of Earth's atmosphere.",
+      "Food packaging can use this relatively unreactive gas to help preserve its contents.",
+      "Daniel Rutherford recognised it as a distinct substance in Edinburgh in 1772."
     ]
   },
   {
@@ -243,9 +243,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [He]2s2 2p4.",
     "hints": [
-      "This element belongs to the Nonmetal family.",
-      "Look in period 2, group 16 of the periodic table.",
-      "Its tabulated electron configuration is [He]2s2 2p4."
+      "It supports burning, and animals need it for respiration.",
+      "Steelmakers use large quantities of this gas to help remove impurities from molten metal.",
+      "Joseph Priestley produced it by heating mercury oxide in 1774."
     ]
   },
   {
@@ -274,9 +274,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [He]2s2 2p5.",
     "hints": [
-      "This element belongs to the Halogen family.",
-      "Look in period 2, group 17 of the periodic table.",
-      "Its tabulated electron configuration is [He]2s2 2p5."
+      "This very pale yellow-green gas is exceptionally reactive.",
+      "Its fluoride compounds are added to some toothpastes to protect teeth.",
+      "Henri Moissan isolated the element by electrolysis in France in 1886."
     ]
   },
   {
@@ -305,9 +305,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [He]2s2 2p6.",
     "hints": [
-      "This element belongs to the Noble Gas family.",
-      "Look in period 2, group 18 of the periodic table.",
-      "Its tabulated electron configuration is [He]2s2 2p6."
+      "An electrical discharge makes this gas glow reddish orange.",
+      "It fills some of the glowing glass tubes used in advertising signs.",
+      "William Ramsay and Morris Travers discovered it in London in 1898."
     ]
   },
   {
@@ -336,9 +336,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ne]3s1.",
     "hints": [
-      "This element belongs to the Alkali Metal family.",
-      "Look in period 3, group 1 of the periodic table.",
-      "Its tabulated electron configuration is [Ne]3s1."
+      "This soft metal rapidly tarnishes in air and reacts vigorously with water.",
+      "Its chloride is ordinary table salt, rather than the reactive metal itself.",
+      "Its vapour gives some street lamps their characteristic orange-yellow light."
     ]
   },
   {
@@ -367,9 +367,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ne]3s2.",
     "hints": [
-      "This element belongs to the Alkaline Earth Metal family.",
-      "Look in period 3, group 2 of the periodic table.",
-      "Its tabulated electron configuration is [Ne]3s2."
+      "This silvery metal burns with a dazzling white light.",
+      "Its lightweight alloys are used in vehicles, cameras and aircraft.",
+      "An atom of this element sits at the centre of a chlorophyll molecule."
     ]
   },
   {
@@ -398,9 +398,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ne]3s2 3p1.",
     "hints": [
-      "This element belongs to the Metal family.",
-      "Look in period 3, group 13 of the periodic table.",
-      "Its tabulated electron configuration is [Ne]3s2 3p1."
+      "This lightweight metal resists corrosion thanks to its protective surface oxide.",
+      "It is used in drinks cans, kitchen foil and aircraft structures.",
+      "Hans Christian Oersted produced an impure sample in Copenhagen in 1825."
     ]
   },
   {
@@ -429,9 +429,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ne]3s2 3p2.",
     "hints": [
-      "This element belongs to the Metalloid family.",
-      "Look in period 3, group 14 of the periodic table.",
-      "Its tabulated electron configuration is [Ne]3s2 3p2."
+      "Highly purified crystals of this element are used in computer chips and other electronic devices.",
+      "Its dioxide occurs in sand and is a major ingredient in glass.",
+      "Jons Jacob Berzelius obtained a relatively pure sample in Stockholm in 1824."
     ]
   },
   {
@@ -460,9 +460,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ne]3s2 3p3.",
     "hints": [
-      "This element belongs to the Nonmetal family.",
-      "Look in period 3, group 15 of the periodic table.",
-      "Its tabulated electron configuration is [Ne]3s2 3p3."
+      "Its red form is used on the striking surface of safety-match boxes.",
+      "Its white form is a waxy solid that can glow and catch fire in air.",
+      "Hennig Brand obtained it from processed urine in Hamburg in 1669."
     ]
   },
   {
@@ -491,9 +491,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ne]3s2 3p4.",
     "hints": [
-      "This element belongs to the Nonmetal family.",
-      "Look in period 3, group 16 of the periodic table.",
-      "Its tabulated electron configuration is [Ne]3s2 3p4."
+      "Its familiar form is a yellow solid; the pure element is odourless.",
+      "It is used to vulcanise rubber, improving the material's useful properties.",
+      "Natural deposits of the uncombined element are often associated with volcanic areas."
     ]
   },
   {
@@ -522,9 +522,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ne]3s2 3p5.",
     "hints": [
-      "This element belongs to the Halogen family.",
-      "Look in period 3, group 17 of the periodic table.",
-      "Its tabulated electron configuration is [Ne]3s2 3p5."
+      "This yellow-green gas has a sharp, choking smell.",
+      "It is used to disinfect drinking water and swimming pools.",
+      "Carl Wilhelm Scheele produced the gas in Uppsala, Sweden, in 1774."
     ]
   },
   {
@@ -553,9 +553,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ne]3s2 3p6.",
     "hints": [
-      "This element belongs to the Noble Gas family.",
-      "Look in period 3, group 18 of the periodic table.",
-      "Its tabulated electron configuration is [Ne]3s2 3p6."
+      "Welders use this colourless, unreactive gas to shield hot metal from air.",
+      "It can fill the gap between panes in double-glazed windows.",
+      "Lord Rayleigh and William Ramsay identified it in air in 1894."
     ]
   },
   {
@@ -584,9 +584,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s1.",
     "hints": [
-      "This element belongs to the Alkali Metal family.",
-      "Look in period 4, group 1 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s1."
+      "This soft metal can react with water while burning with a lavender-coloured flame.",
+      "Its compounds are important ingredients in agricultural fertilisers.",
+      "Its ions help maintain fluid and electrolyte balance in living cells."
     ]
   },
   {
@@ -615,9 +615,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2.",
     "hints": [
-      "This element belongs to the Alkaline Earth Metal family.",
-      "Look in period 4, group 2 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s2."
+      "Its phosphate compounds provide much of the mineral structure of bones and teeth.",
+      "Its carbonate occurs in limestone, which is used to make cement.",
+      "Humphry Davy isolated the metal in 1808 using electrolysis and a mercury amalgam."
     ]
   },
   {
@@ -646,9 +646,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d1.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 4, group 3 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s2 3d1."
+      "This silvery metal is light enough to be useful in lightweight alloys.",
+      "Alloying it with aluminium has produced materials used in high-end bicycle frames.",
+      "Lars Frederik Nilson identified it in Sweden in 1879."
     ]
   },
   {
@@ -677,9 +677,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d2.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 4, group 4 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s2 3d2."
+      "This strong metal is much less dense than steel.",
+      "Its white dioxide pigment is used in paints and sunscreens.",
+      "William Gregor recognised an unknown metal in Cornish black sand in 1791."
     ]
   },
   {
@@ -708,9 +708,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d3.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 4, group 5 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s2 3d3."
+      "Small additions of this metal help make tough steels for tools and axles.",
+      "Its silvery surface is resistant to corrosion.",
+      "Andres Manuel del Rio identified it in Mexico in 1801, but the discovery was initially rejected."
     ]
   },
   {
@@ -739,9 +739,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]3d5 4s1.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 4, group 6 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]3d5 4s1."
+      "Plating with this metal can give an object a shiny, mirror-like finish.",
+      "It is a key addition that helps stainless steel resist rust.",
+      "A vivid red mineral from Siberia led to its identification by Vauquelin in Paris."
     ]
   },
   {
@@ -770,9 +770,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d5.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 4, group 7 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s2 3d5."
+      "The pure metal is silvery, hard and too brittle for many structural uses.",
+      "Its steel alloys are used in demanding applications such as railway tracks.",
+      "Its dark oxide was used as a pigment by prehistoric cave painters."
     ]
   },
   {
@@ -801,9 +801,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d6.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 4, group 8 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s2 3d6."
+      "This grey metal forms rust when exposed to damp air.",
+      "Combining it with controlled amounts of carbon produces steel.",
+      "It is part of haemoglobin, the protein that transports oxygen in blood."
     ]
   },
   {
@@ -832,9 +832,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d7.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 4, group 9 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s2 3d7."
+      "This silvery-blue metal can be magnetised.",
+      "Its salts have long supplied rich blue colours for glass, pottery and pigments.",
+      "Its heat-resistant alloys are used in jet-engine turbines."
     ]
   },
   {
@@ -863,9 +863,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d8.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 4, group 10 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s2 3d8."
+      "It is an important ingredient in many corrosion-resistant stainless steels.",
+      "An alloy of this metal and chromium is used for heating elements in toasters.",
+      "Axel Fredrik Cronstedt investigated its ore in Sweden in 1751."
     ]
   },
   {
@@ -894,9 +894,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s1 3d10.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 4, group 11 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s1 3d10."
+      "This reddish metal is easily drawn into wires for electrical equipment.",
+      "Mixing it with tin produces bronze.",
+      "Beads made from this metal have been found in northern Iraq dating back over ten thousand years."
     ]
   },
   {
@@ -925,9 +925,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d10.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 4, group 12 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s2 3d10."
+      "It is used to coat steel in the rust-prevention process called galvanising.",
+      "Alloying it with copper produces brass.",
+      "Its white oxide is used in products including sunscreens and cosmetics."
     ]
   },
   {
@@ -956,9 +956,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d10 4p1.",
     "hints": [
-      "This element belongs to the Metal family.",
-      "Look in period 4, group 13 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s2 3d10 4p1."
+      "It melts at about 30 degrees Celsius, low enough for a warm hand to melt it.",
+      "Its compounds are used in LEDs and other semiconductor devices.",
+      "Paul-Emile Lecoq de Boisbaudran discovered it in France in 1875."
     ]
   },
   {
@@ -987,9 +987,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d10 4p2.",
     "hints": [
-      "This element belongs to the Metalloid family.",
-      "Look in period 4, group 14 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s2 3d10 4p2."
+      "This brittle, silvery-white material is a semiconductor.",
+      "It was widely used in early transistors before silicon became dominant.",
+      "Clemens Winkler discovered it in Freiberg, Germany, in 1886."
     ]
   },
   {
@@ -1018,9 +1018,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d10 4p3.",
     "hints": [
-      "This element belongs to the Metalloid family.",
-      "Look in period 4, group 15 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s2 3d10 4p3."
+      "Its metallic form has a shiny grey surface but breaks rather than bending easily.",
+      "It is used in small amounts to alter the electrical properties of semiconductors.",
+      "Some of its compounds have medical applications despite its reputation as a poison."
     ]
   },
   {
@@ -1049,9 +1049,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d10 4p4.",
     "hints": [
-      "This element belongs to the Nonmetal family.",
-      "Look in period 4, group 16 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s2 3d10 4p4."
+      "It can appear as a red powder or as a grey, metallic-looking solid.",
+      "Its electrical resistance changes with light, making it useful in light-sensitive devices.",
+      "Berzelius discovered it in 1817 while investigating residue from acid production in Stockholm."
     ]
   },
   {
@@ -1080,9 +1080,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d10 4p5.",
     "hints": [
-      "This element belongs to the Halogen family.",
-      "Look in period 4, group 17 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s2 3d10 4p5."
+      "At room temperature it is a dark red-brown liquid with a strong, unpleasant smell.",
+      "Some of its compounds have been used to make materials less flammable.",
+      "Antoine-Jerome Balard reported its discovery from French brines in 1826."
     ]
   },
   {
@@ -1111,9 +1111,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Ar]4s2 3d10 4p6.",
     "hints": [
-      "This element belongs to the Noble Gas family.",
-      "Look in period 4, group 18 of the periodic table.",
-      "Its tabulated electron configuration is [Ar]4s2 3d10 4p6."
+      "This gas is used in some high-speed photographic flash lamps.",
+      "A compound of this element with fluorine is used in certain lasers.",
+      "Ramsay and Travers discovered it while separating the gases in liquid air in 1898."
     ]
   },
   {
@@ -1142,9 +1142,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s1.",
     "hints": [
-      "This element belongs to the Alkali Metal family.",
-      "Look in period 5, group 1 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s1."
+      "This soft metal can ignite in air and reacts violently with water.",
+      "It has been used in photocells that detect light.",
+      "Bunsen and Kirchhoff identified it in 1861 from distinctive deep-red spectral lines."
     ]
   },
   {
@@ -1173,9 +1173,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2.",
     "hints": [
-      "This element belongs to the Alkaline Earth Metal family.",
-      "Look in period 5, group 2 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s2."
+      "Its salts give many fireworks and signal flares their vivid red colour.",
+      "Its aluminate is used in some long-lasting glow-in-the-dark materials.",
+      "Its name comes from Strontian, a village in Scotland."
     ]
   },
   {
@@ -1204,9 +1204,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d1.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 5, group 3 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s2 4d1."
+      "Garnet crystals containing this element are used in lasers that can cut metal.",
+      "Its compounds helped produce red light in older colour television screens.",
+      "Johan Gadolin identified its oxide in 1794 while analysing a mineral from Ytterby."
     ]
   },
   {
@@ -1235,9 +1235,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d2.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 5, group 4 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s2 4d2."
+      "Its alloys surround fuel in nuclear reactors because they absorb relatively few neutrons.",
+      "Its dioxide is used to make cubic zirconia, a familiar diamond substitute.",
+      "Martin Klaproth identified its oxide in the gemstone zircon in 1789."
     ]
   },
   {
@@ -1266,9 +1266,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s1 4d4.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 5, group 5 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s1 4d4."
+      "Its alloys are used in superconducting magnets for MRI scanners and particle accelerators.",
+      "Small additions strengthen steels used in pipelines and structural beams.",
+      "Charles Hatchett identified it in 1801 while studying a mineral at the British Museum."
     ]
   },
   {
@@ -1297,9 +1297,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s1 4d5.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 5, group 6 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s1 4d5."
+      "Its high-temperature steel alloys are used in engine parts and cutting tools.",
+      "Its disulfide is used as a lubricant additive.",
+      "Its ore was once confused with graphite and with ores of lead."
     ]
   },
   {
@@ -1328,9 +1328,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d5.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 5, group 7 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s2 4d5."
+      "A metastable isotope of this element is widely used for medical imaging.",
+      "All of its isotopes are radioactive; only tiny natural traces occur on Earth.",
+      "It became the first artificially produced element to be identified, in Italy in 1937."
     ]
   },
   {
@@ -1359,9 +1359,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s1 4d7.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 5, group 8 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s1 4d7."
+      "Its compounds and alloys are used in chip resistors and electrical contacts.",
+      "Small additions can harden platinum and palladium.",
+      "Its name comes from a Latin name for Russia."
     ]
   },
   {
@@ -1390,9 +1390,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s1 4d8.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 5, group 9 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s1 4d8."
+      "It helps catalytic converters remove nitrogen oxides from vehicle exhaust.",
+      "Its reflective surface is useful for coatings on optical mirrors.",
+      "William Wollaston discovered it in 1803 while working with platinum."
     ]
   },
   {
@@ -1421,9 +1421,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]4d10.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 5, group 10 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]4d10."
+      "It is used as a catalyst in vehicle exhaust converters.",
+      "It can be alloyed with gold to make white jewellery alloys.",
+      "This metal can absorb surprisingly large quantities of hydrogen."
     ]
   },
   {
@@ -1452,9 +1452,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s1 4d10.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 5, group 11 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s1 4d10."
+      "This shiny metal reflects visible light extremely well, making it useful for mirrors.",
+      "The sterling jewellery alloy contains 92.5 percent of this element.",
+      "Sulfur compounds can turn its surface dark by forming a sulfide tarnish."
     ]
   },
   {
@@ -1483,9 +1483,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d10.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 5, group 12 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s2 4d10."
+      "This toxic metal has a silvery surface with a bluish tint.",
+      "It was widely used with nickel in rechargeable batteries.",
+      "Its compounds have supplied bright yellow and red pigments."
     ]
   },
   {
@@ -1514,9 +1514,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d10 5p1.",
     "hints": [
-      "This element belongs to the Metal family.",
-      "Look in period 5, group 13 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s2 4d10 5p1."
+      "A transparent, electrically conducting oxide of this metal and tin is used in touchscreens.",
+      "Its name recalls the distinctive indigo line in its spectrum.",
+      "Reich and Richter announced its discovery in Freiberg, Germany, in 1863."
     ]
   },
   {
@@ -1545,9 +1545,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d10 5p2.",
     "hints": [
-      "This element belongs to the Metal family.",
-      "Look in period 5, group 14 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s2 4d10 5p2."
+      "A thin layer of this metal protects the steel used in many food cans.",
+      "It combines with copper to make bronze.",
+      "Flat window glass can be made by floating molten glass on a bath of this metal."
     ]
   },
   {
@@ -1576,9 +1576,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d10 5p3.",
     "hints": [
-      "This element belongs to the Metalloid family.",
-      "Look in period 5, group 15 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s2 4d10 5p3."
+      "This brittle, silvery material is used to harden alloys containing lead.",
+      "Its compounds are used in flame-retardant materials.",
+      "Its black sulfide mineral, stibnite, was used in ancient eye cosmetics."
     ]
   },
   {
@@ -1607,9 +1607,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d10 5p4.",
     "hints": [
-      "This element belongs to the Metalloid family.",
-      "Look in period 5, group 16 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s2 4d10 5p4."
+      "It is a brittle, metallic-looking element often supplied as a grey powder.",
+      "Its compounds are used in some thin-film solar cells.",
+      "Its name comes from a Latin word for Earth."
     ]
   },
   {
@@ -1638,9 +1638,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d10 5p5.",
     "hints": [
-      "This element belongs to the Halogen family.",
-      "Look in period 5, group 17 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s2 4d10 5p5."
+      "Its dark crystals can give off a striking purple vapour when heated.",
+      "The body needs its ions to make thyroid hormones.",
+      "Bernard Courtois found it while working with seaweed ash in Paris in 1811."
     ]
   },
   {
@@ -1669,9 +1669,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Kr]5s2 4d10 5p6.",
     "hints": [
-      "This element belongs to the Noble Gas family.",
-      "Look in period 5, group 18 of the periodic table.",
-      "Its tabulated electron configuration is [Kr]5s2 4d10 5p6."
+      "An electrical discharge can make this otherwise colourless gas glow blue.",
+      "Spacecraft can use its ions as propellant in electric thrusters.",
+      "Its bright flash lamps have been used in high-speed photography."
     ]
   },
   {
@@ -1700,9 +1700,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s1.",
     "hints": [
-      "This element belongs to the Alkali Metal family.",
-      "Look in period 6, group 1 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s1."
+      "This soft, pale-gold metal reacts very violently with water.",
+      "Transitions in one of its isotopes define the second used in precision timekeeping.",
+      "Bunsen and Kirchhoff discovered it in mineral water in Heidelberg in 1860."
     ]
   },
   {
@@ -1731,9 +1731,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2.",
     "hints": [
-      "This element belongs to the Alkaline Earth Metal family.",
-      "Look in period 6, group 2 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2."
+      "Its insoluble sulfate is used as a contrast material for X-rays of the digestive system.",
+      "Its salts can produce green colours in fireworks.",
+      "Its dense sulfate mineral is added to drilling fluids for oil and gas wells."
     ]
   },
   {
@@ -1762,9 +1762,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 5d1.",
     "hints": [
-      "This element belongs to the Lanthanide family.",
-      "Look in period 6, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 5d1."
+      "An alloy with nickel can store hydrogen for use as a fuel.",
+      "It is one of the ingredients of the sparking alloy used in lighter flints.",
+      "Carl Gustav Mosander discovered it in Stockholm in 1839."
     ]
   },
   {
@@ -1793,9 +1793,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f1 5d1.",
     "hints": [
-      "This element belongs to the Lanthanide family.",
-      "Look in period 6, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f1 5d1."
+      "It is a major ingredient in the alloy that produces sparks in cigarette lighters.",
+      "Its oxide is used for polishing glass.",
+      "It was identified independently in Sweden and Germany around 1803."
     ]
   },
   {
@@ -1824,9 +1824,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f3.",
     "hints": [
-      "This element belongs to the Lanthanide family.",
-      "Look in period 6, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f3."
+      "Its salts can give glass and ceramic glazes an intense yellow colour.",
+      "It strengthens some magnesium alloys used in aircraft engines.",
+      "Carl Auer von Welsbach separated it from the supposed element didymium in Vienna in 1885."
     ]
   },
   {
@@ -1855,9 +1855,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f4.",
     "hints": [
-      "This element belongs to the Lanthanide family.",
-      "Look in period 6, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f4."
+      "An alloy with iron and boron makes very strong permanent magnets.",
+      "Those magnets are useful in devices ranging from loudspeakers to wind turbines.",
+      "Carl Auer von Welsbach identified it in Vienna in 1885 while separating didymium."
     ]
   },
   {
@@ -1886,9 +1886,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f5.",
     "hints": [
-      "This element belongs to the Lanthanide family.",
-      "Look in period 6, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f5."
+      "Every isotope of this element is radioactive.",
+      "It has been used in specialised batteries powered by radioactive decay.",
+      "It was isolated from reactor fission products at Oak Ridge in 1945."
     ]
   },
   {
@@ -1917,9 +1917,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f6.",
     "hints": [
-      "This element belongs to the Lanthanide family.",
-      "Look in period 6, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f6."
+      "Its alloys with cobalt make magnets that work well at high temperatures.",
+      "It can absorb neutrons, giving it a role in nuclear-reactor control.",
+      "It was separated from the mineral samarskite by Lecoq de Boisbaudran in 1879."
     ]
   },
   {
@@ -1948,9 +1948,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f7.",
     "hints": [
-      "This element belongs to the Lanthanide family.",
-      "Look in period 6, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f7."
+      "Its compounds can supply red fluorescence for security printing on banknotes.",
+      "It helps balance the colour of light in some energy-saving lamps.",
+      "Eugene-Anatole Demarcay separated it in 1901 after repeated crystallisations of other rare-earth salts."
     ]
   },
   {
@@ -1979,9 +1979,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f7 5d1.",
     "hints": [
-      "This element belongs to the Lanthanide family.",
-      "Look in period 6, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f7 5d1."
+      "Its compounds are used as contrast agents in MRI scans.",
+      "It is particularly effective at absorbing neutrons.",
+      "Charles Galissard de Marignac identified it in Geneva in 1880."
     ]
   },
   {
@@ -2010,9 +2010,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f9.",
     "hints": [
-      "This element belongs to the Lanthanide family.",
-      "Look in period 6, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f9."
+      "Its compounds are used in light-emitting materials for energy-saving lamps.",
+      "An alloy with dysprosium and iron changes length in a magnetic field.",
+      "Carl Gustav Mosander first separated its oxide in Stockholm in 1843."
     ]
   },
   {
@@ -2041,9 +2041,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f10.",
     "hints": [
-      "This element belongs to the Lanthanide family.",
-      "Look in period 6, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f10."
+      "Adding it to powerful permanent magnets helps them resist heat-induced loss of magnetism.",
+      "Its iodide can help discharge lamps produce intense white light.",
+      "Lecoq de Boisbaudran discovered it in Paris in 1886."
     ]
   },
   {
@@ -2072,9 +2072,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f11.",
     "hints": [
-      "This element belongs to the Lanthanide family.",
-      "Look in period 6, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f11."
+      "This metal has a bright, silvery appearance.",
+      "Its ability to absorb neutrons gives it a use in nuclear reactors.",
+      "Its name is derived from the Latin name for Stockholm."
     ]
   },
   {
@@ -2103,9 +2103,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f12.",
     "hints": [
-      "This element belongs to the Lanthanide family.",
-      "Look in period 6, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f12."
+      "Its compounds give some glass and imitation gemstones a pink tint.",
+      "Doping optical fibres with this element allows telecommunications signals to be amplified.",
+      "Mosander identified its pink oxide in Stockholm in 1843."
     ]
   },
   {
@@ -2134,9 +2134,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f13.",
     "hints": [
-      "This element belongs to the Lanthanide family.",
-      "Look in period 6, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f13."
+      "A radioactive isotope of this element has been used in portable X-ray sources.",
+      "It is used in lasers with surgical applications.",
+      "Per Teodor Cleve identified its oxide in Uppsala, Sweden, in 1879."
     ]
   },
   {
@@ -2165,9 +2165,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14.",
     "hints": [
-      "This element belongs to the Lanthanide family.",
-      "Look in period 6, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f14."
+      "This soft, silvery metal slowly develops an oxide layer in air.",
+      "It is used in some tuneable lasers.",
+      "Marignac separated it from material containing erbium in Geneva in 1878."
     ]
   },
   {
@@ -2196,9 +2196,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d1.",
     "hints": [
-      "This element belongs to the Lanthanide family.",
-      "Look in period 6, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f14 5d1."
+      "This metal is silvery-white, hard and dense.",
+      "It has been used as a catalyst for breaking down hydrocarbons in oil refining.",
+      "Its name comes from an ancient Latin name for Paris."
     ]
   },
   {
@@ -2227,9 +2227,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d2.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 6, group 4 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f14 5d2."
+      "Its strong neutron absorption makes it useful for nuclear-reactor control rods.",
+      "Its oxide is used as an electrical insulator in microchips.",
+      "Its name comes from the Latin name for Copenhagen."
     ]
   },
   {
@@ -2258,9 +2258,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d3.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 6, group 5 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f14 5d3."
+      "Its thin insulating oxide layer makes it valuable for compact electronic capacitors.",
+      "It is used in surgical implants because body tissues tolerate it well.",
+      "Anders Gustav Ekeberg reported this metal in Uppsala, Sweden, in 1802."
     ]
   },
   {
@@ -2289,9 +2289,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d4.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 6, group 6 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f14 5d4."
+      "It has the highest melting point of any metal.",
+      "It supplied the glowing filaments in many traditional incandescent light bulbs.",
+      "Its carbide is exceptionally hard and is used in cutting and drilling tools."
     ]
   },
   {
@@ -2320,9 +2320,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d5.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 6, group 7 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f14 5d5."
+      "Only tungsten has a higher melting point among the metallic elements.",
+      "Adding it to nickel alloys helps turbine blades withstand jet-engine temperatures.",
+      "Walter Noddack and Ida Tacke isolated it in Berlin in 1925."
     ]
   },
   {
@@ -2351,9 +2351,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d6.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 6, group 8 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f14 5d6."
+      "It is the densest naturally occurring element under ordinary conditions.",
+      "Its very hard alloys have been used for fountain-pen tips and instrument pivots.",
+      "Smithson Tennant found it in the residue left by dissolving platinum in 1803."
     ]
   },
   {
@@ -2382,9 +2382,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d7.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 6, group 9 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f14 5d7."
+      "This dense metal is exceptionally resistant to corrosion.",
+      "It is used in some spark-plug electrodes because it withstands heat and wear.",
+      "It made up ten percent of the alloy in the former international standard metre bar."
     ]
   },
   {
@@ -2413,9 +2413,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s1 4f14 5d9.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 6, group 10 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s1 4f14 5d9."
+      "This corrosion-resistant precious metal is widely used in jewellery.",
+      "It helps catalytic converters change harmful vehicle exhaust gases into less harmful products.",
+      "It is used as a catalyst to improve the performance of fuel cells."
     ]
   },
   {
@@ -2444,9 +2444,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s1 4f14 5d10.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 6, group 11 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s1 4f14 5d10."
+      "This soft metal has a naturally yellow appearance and resists corrosion.",
+      "The 24-carat designation describes the pure form of this jewellery metal.",
+      "Its resistance to corrosion makes it useful for reliable electrical contacts."
     ]
   },
   {
@@ -2475,9 +2475,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d10.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 6, group 12 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f14 5d10."
+      "It is a silvery metal that is liquid at ordinary room temperature.",
+      "It was widely used in thermometers and barometers before less toxic alternatives became common.",
+      "Its red sulfide ore, cinnabar, was used as a pigment in prehistoric cave art."
     ]
   },
   {
@@ -2506,9 +2506,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p1.",
     "hints": [
-      "This element belongs to the Metal family.",
-      "Look in period 6, group 13 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p1."
+      "This soft, silvery-white metal tarnishes readily.",
+      "Its sulfate was once used as a rat poison, but such household uses were banned in many countries.",
+      "William Crookes recognised it from a green spectral line in 1861."
     ]
   },
   {
@@ -2537,9 +2537,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p2.",
     "hints": [
-      "This element belongs to the Metal family.",
-      "Look in period 6, group 14 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p2."
+      "This dense, soft metal is easily shaped into sheets.",
+      "It is still used in many rechargeable car batteries.",
+      "The Romans used it extensively for water pipes."
     ]
   },
   {
@@ -2568,9 +2568,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p3.",
     "hints": [
-      "This element belongs to the Metal family.",
-      "Look in period 6, group 15 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p3."
+      "This brittle metal has a silvery appearance with a pinkish tinge.",
+      "Its low-melting alloys have been used in fire-safety devices and electrical fuses.",
+      "Its compounds can give cosmetics a pearly appearance."
     ]
   },
   {
@@ -2599,9 +2599,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p4.",
     "hints": [
-      "This element belongs to the Metal family.",
-      "Look in period 6, group 16 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p4."
+      "This highly radioactive element emits alpha particles.",
+      "Its name honours Poland, Marie Curie's homeland.",
+      "Marie and Pierre Curie identified it in pitchblende in 1898."
     ]
   },
   {
@@ -2630,9 +2630,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p5.",
     "hints": [
-      "This element belongs to the Halogen family.",
-      "Look in period 6, group 17 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p5."
+      "Only tiny quantities of this intensely radioactive element have been produced.",
+      "Researchers made it at Berkeley in 1940 by bombarding bismuth with alpha particles.",
+      "Even its longest-lived known isotope has a half-life of only about eight hours."
     ]
   },
   {
@@ -2661,9 +2661,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p6.",
     "hints": [
-      "This element belongs to the Noble Gas family.",
-      "Look in period 6, group 18 of the periodic table.",
-      "Its tabulated electron configuration is [Xe]6s2 4f14 5d10 6p6."
+      "This radioactive gas has no colour or smell.",
+      "It can escape from rocks and build up inside poorly ventilated buildings.",
+      "It was once sealed into small tubes for use in cancer treatment."
     ]
   },
   {
@@ -2692,9 +2692,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s1.",
     "hints": [
-      "This element belongs to the Alkali Metal family.",
-      "Look in period 7, group 1 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s1."
+      "Marguerite Perey discovered it at the Curie Institute in Paris in 1939.",
+      "Its longest-lived known isotope has a half-life of about 22 minutes.",
+      "It was found by studying unexpected radioactivity in a purified actinium sample."
     ]
   },
   {
@@ -2723,9 +2723,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2.",
     "hints": [
-      "This element belongs to the Alkaline Earth Metal family.",
-      "Look in period 7, group 2 of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2."
+      "It was used in luminous paints on clock and watch dials.",
+      "The Curies discovered it in 1898 while studying pitchblende.",
+      "The freshly prepared metal is silvery, soft and strongly radioactive."
     ]
   },
   {
@@ -2754,9 +2754,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 6d1.",
     "hints": [
-      "This element belongs to the Actinide family.",
-      "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 6d1."
+      "Its intense radioactivity can make the surrounding air glow blue.",
+      "It occurs in trace amounts in uranium ores such as pitchblende.",
+      "Andre Debierne reported its discovery in Paris in 1899."
     ]
   },
   {
@@ -2785,9 +2785,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 6d2.",
     "hints": [
-      "This element belongs to the Actinide family.",
-      "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 6d2."
+      "Its name honours the Norse god of thunder.",
+      "This silvery metal is naturally radioactive.",
+      "It is studied as an alternative starting material for nuclear fuel."
     ]
   },
   {
@@ -2816,9 +2816,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f2 6d1.",
     "hints": [
-      "This element belongs to the Actinide family.",
-      "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f2 6d1."
+      "This rare, radioactive metal has few uses outside research.",
+      "Fajans and Gohring identified a short-lived isotope of it in 1913.",
+      "Lise Meitner separated a much longer-lived isotope from pitchblende in 1918."
     ]
   },
   {
@@ -2847,9 +2847,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f3 6d1.",
     "hints": [
-      "This element belongs to the Actinide family.",
-      "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f3 6d1."
+      "An isotope of this element supplies the fission fuel in many nuclear power stations.",
+      "Its compounds can give glass a yellow-green colour.",
+      "Henri Becquerel discovered its radioactivity in 1896 after it affected a photographic plate."
     ]
   },
   {
@@ -2878,9 +2878,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f4 6d1.",
     "hints": [
-      "This element belongs to the Actinide family.",
-      "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f4 6d1."
+      "It was the first element beyond uranium to be produced and identified.",
+      "McMillan and Abelson made it at Berkeley, California, in 1940.",
+      "One of its long-lived isotopes has been used in neutron detectors."
     ]
   },
   {
@@ -2909,9 +2909,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f6.",
     "hints": [
-      "This element belongs to the Actinide family.",
-      "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f6."
+      "An isotope of this element supplies heat for power systems on Mars rovers.",
+      "It can serve as fuel in nuclear reactors.",
+      "Researchers first produced it at Berkeley, California, in 1940."
     ]
   },
   {
@@ -2940,9 +2940,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f7.",
     "hints": [
-      "This element belongs to the Actinide family.",
-      "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f7."
+      "Tiny quantities of one isotope are used in ionisation smoke alarms.",
+      "It was first made by a team in Chicago in 1944.",
+      "It was produced by bombarding plutonium with neutrons in a reactor."
     ]
   },
   {
@@ -2971,9 +2971,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f7 6d1.",
     "hints": [
-      "This element belongs to the Actinide family.",
-      "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f7 6d1."
+      "Its name honours Marie and Pierre Curie.",
+      "Glenn Seaborg revealed its existence on a children's radio programme in 1945.",
+      "It was first made in 1944 by bombarding plutonium with alpha particles."
     ]
   },
   {
@@ -3002,9 +3002,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f9.",
     "hints": [
-      "This element belongs to the Actinide family.",
-      "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f9."
+      "It was first produced at Berkeley, California, in December 1949.",
+      "Researchers created it by firing alpha particles at americium.",
+      "It is so scarce that it has no everyday commercial use."
     ]
   },
   {
@@ -3033,9 +3033,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f10.",
     "hints": [
-      "This element belongs to the Actinide family.",
-      "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f10."
+      "Its strong neutron emission is useful for investigating oil wells and mineral ores.",
+      "It was first made at Berkeley in 1950 by bombarding curium with alpha particles.",
+      "Its name honours the US state where it was first produced."
     ]
   },
   {
@@ -3064,9 +3064,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f11.",
     "hints": [
-      "This element belongs to the Actinide family.",
-      "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f11."
+      "It was found in debris from a thermonuclear test in the Pacific in 1952.",
+      "Its name honours Albert Einstein.",
+      "It is produced in tiny quantities for scientific research."
     ]
   },
   {
@@ -3095,9 +3095,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn] 5f12 7s2.",
     "hints": [
-      "This element belongs to the Actinide family.",
-      "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn] 5f12 7s2."
+      "It was identified in 1953 in debris from the first thermonuclear explosion.",
+      "Its name honours Enrico Fermi.",
+      "It is made only in minute quantities and has no uses outside research."
     ]
   },
   {
@@ -3126,9 +3126,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f13.",
     "hints": [
-      "This element belongs to the Actinide family.",
-      "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f13."
+      "The first experiment to produce it in 1955 yielded just seventeen atoms.",
+      "It was made at Berkeley by bombarding einsteinium with alpha particles.",
+      "It is named after Dmitri Mendeleev, a pioneer of the periodic table."
     ]
   },
   {
@@ -3157,9 +3157,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]7s2 5f14.",
     "hints": [
-      "This element belongs to the Actinide family.",
-      "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn]7s2 5f14."
+      "It is named after Alfred Nobel.",
+      "Its discovery involved competing claims from laboratories in Stockholm, Berkeley and Dubna.",
+      "It is a synthetic radioactive element used only for research."
     ]
   },
   {
@@ -3188,9 +3188,9 @@ const ElementleElements = [
     },
     "recallClue": "Its tabulated electron configuration is [Rn]5f14 7s2 7p1.",
     "hints": [
-      "This element belongs to the Actinide family.",
-      "Look in period 7, in one of the two detached rows of the periodic table.",
-      "Its tabulated electron configuration is [Rn]5f14 7s2 7p1."
+      "Its name honours Ernest Lawrence, inventor of the cyclotron.",
+      "Its discovery involved competing experiments in Berkeley and Dubna.",
+      "It is a radioactive element with no applications outside research."
     ]
   },
   {
@@ -3219,9 +3219,9 @@ const ElementleElements = [
     },
     "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d2.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 7, group 4 of the periodic table.",
-      "Its predicted electron configuration is [Rn]7s2 5f14 6d2."
+      "It is named in honour of nuclear physicist Ernest Rutherford.",
+      "Its discovery was disputed between teams in Dubna and Berkeley during the 1960s.",
+      "Scientists produce it artificially for research rather than for everyday products."
     ]
   },
   {
@@ -3250,9 +3250,9 @@ const ElementleElements = [
     },
     "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d3.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 7, group 5 of the periodic table.",
-      "Its predicted electron configuration is [Rn]7s2 5f14 6d3."
+      "Its name honours Dubna, the Russian town that hosts a major nuclear research institute.",
+      "A Berkeley team produced it in 1970 by bombarding californium with neon.",
+      "Only tiny quantities of this radioactive element have been made for research."
     ]
   },
   {
@@ -3281,9 +3281,9 @@ const ElementleElements = [
     },
     "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d4.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 7, group 6 of the periodic table.",
-      "Its predicted electron configuration is [Rn]7s2 5f14 6d4."
+      "It honours Glenn Seaborg, who was still alive when its name was approved.",
+      "A Berkeley team produced it in 1974 by bombarding californium with oxygen.",
+      "It is made in particle-accelerator experiments and has no everyday applications."
     ]
   },
   {
@@ -3312,9 +3312,9 @@ const ElementleElements = [
     },
     "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d5.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 7, group 7 of the periodic table.",
-      "Its predicted electron configuration is [Rn]7s2 5f14 6d5."
+      "It is named after Niels Bohr, famous for his model of the atom.",
+      "A Darmstadt team produced it in 1981 by bombarding bismuth with chromium.",
+      "It is highly radioactive and is studied only in research experiments."
     ]
   },
   {
@@ -3343,9 +3343,9 @@ const ElementleElements = [
     },
     "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d6.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 7, group 8 of the periodic table.",
-      "Its predicted electron configuration is [Rn]7s2 5f14 6d6."
+      "Its name comes from a Latin name for the German state of Hesse.",
+      "Researchers made it at Darmstadt in 1984 by colliding iron nuclei with lead.",
+      "Its atoms are created for research; no ordinary bulk sample is available."
     ]
   },
   {
@@ -3374,9 +3374,9 @@ const ElementleElements = [
     },
     "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d7.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 7, group 9 of the periodic table.",
-      "Its predicted electron configuration is [Rn]7s2 5f14 6d7."
+      "It honours Lise Meitner, a physicist who helped explain nuclear fission.",
+      "Researchers first made it at Darmstadt in 1982 using bismuth and iron.",
+      "The first detected atom decayed after about five milliseconds."
     ]
   },
   {
@@ -3405,9 +3405,9 @@ const ElementleElements = [
     },
     "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d8.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 7, group 10 of the periodic table.",
-      "Its predicted electron configuration is [Rn]7s2 5f14 6d8."
+      "Its name honours the German city of Darmstadt.",
+      "Researchers made it in 1994 by fusing nickel nuclei with lead.",
+      "Its short-lived atoms are produced in accelerator experiments for research."
     ]
   },
   {
@@ -3436,9 +3436,9 @@ const ElementleElements = [
     },
     "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d9.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 7, group 11 of the periodic table.",
-      "Its predicted electron configuration is [Rn]7s2 5f14 6d9."
+      "It honours Wilhelm Conrad Roentgen, who discovered X-rays.",
+      "A Darmstadt team produced it in 1994 by bombarding bismuth with nickel.",
+      "The first reported isotope survived only milliseconds before decaying."
     ]
   },
   {
@@ -3467,9 +3467,9 @@ const ElementleElements = [
     },
     "recallClue": "Its predicted electron configuration is [Rn]7s2 5f14 6d10.",
     "hints": [
-      "This element belongs to the Transition Metal family.",
-      "Look in period 7, group 12 of the periodic table.",
-      "Its predicted electron configuration is [Rn]7s2 5f14 6d10."
+      "It is named after astronomer Nicolaus Copernicus.",
+      "Researchers first made it at Darmstadt in 1996 by bombarding lead with zinc.",
+      "It is produced in tiny quantities for research into very heavy atoms."
     ]
   },
   {
@@ -3498,9 +3498,9 @@ const ElementleElements = [
     },
     "recallClue": "Its predicted electron configuration is [Rn]5f14 6d10 7s2 7p1.",
     "hints": [
-      "This element belongs to the Metal family.",
-      "Look in period 7, group 13 of the periodic table.",
-      "Its predicted electron configuration is [Rn]5f14 6d10 7s2 7p1."
+      "Its name comes from Nihon, a Japanese name for Japan.",
+      "The discovery was credited to researchers at RIKEN in Japan.",
+      "The successful experiments fired zinc ions at a bismuth target."
     ]
   },
   {
@@ -3529,9 +3529,9 @@ const ElementleElements = [
     },
     "recallClue": "Its predicted electron configuration is [Rn]7s2 7p2 5f14 6d10.",
     "hints": [
-      "This element belongs to the Metal family.",
-      "Look in period 7, group 14 of the periodic table.",
-      "Its predicted electron configuration is [Rn]7s2 7p2 5f14 6d10."
+      "It is named after a Russian laboratory that honours physicist Georgy Flerov.",
+      "It was first produced at Dubna in 1998 by firing calcium at plutonium.",
+      "Only a few atoms at a time are produced, for nuclear research."
     ]
   },
   {
@@ -3560,9 +3560,9 @@ const ElementleElements = [
     },
     "recallClue": "Its predicted electron configuration is [Rn]7s2 7p3 5f14 6d10.",
     "hints": [
-      "This element belongs to the Metal family.",
-      "Look in period 7, group 15 of the periodic table.",
-      "Its predicted electron configuration is [Rn]7s2 7p3 5f14 6d10."
+      "Its name honours the Moscow region of Russia.",
+      "Its discovery involved a collaboration between Russian and US laboratories.",
+      "It is an artificial, highly radioactive element without everyday applications."
     ]
   },
   {
@@ -3591,9 +3591,9 @@ const ElementleElements = [
     },
     "recallClue": "Its predicted electron configuration is [Rn]7s2 7p4 5f14 6d10.",
     "hints": [
-      "This element belongs to the Metal family.",
-      "Look in period 7, group 16 of the periodic table.",
-      "Its predicted electron configuration is [Rn]7s2 7p4 5f14 6d10."
+      "It honours the Lawrence Livermore National Laboratory in California.",
+      "Researchers first produced it in Russia in 2000.",
+      "It can be made by colliding calcium nuclei with a curium target."
     ]
   },
   {
@@ -3622,9 +3622,9 @@ const ElementleElements = [
     },
     "recallClue": "Its predicted electron configuration is [Rn]7s2 7p5 5f14 6d10.",
     "hints": [
-      "This element belongs to the Halogen family.",
-      "Look in period 7, group 17 of the periodic table.",
-      "Its predicted electron configuration is [Rn]7s2 7p5 5f14 6d10."
+      "Its name recognises the contributions of research institutions in Tennessee.",
+      "Its discovery used a berkelium target produced at Oak Ridge and bombarded with calcium.",
+      "The experiments establishing its existence were carried out in Dubna in 2010."
     ]
   },
   {
@@ -3653,9 +3653,9 @@ const ElementleElements = [
     },
     "recallClue": "Its predicted electron configuration is [Rn]7s2 7p6 5f14 6d10.",
     "hints": [
-      "This element belongs to the Noble Gas family.",
-      "Look in period 7, group 18 of the periodic table.",
-      "Its predicted electron configuration is [Rn]7s2 7p6 5f14 6d10."
+      "It honours Yuri Oganessian, a researcher in very heavy atomic nuclei.",
+      "Scientists have produced it by fusing calcium nuclei with californium.",
+      "Only a handful of atoms have been produced, with no uses beyond research."
     ]
   }
 ];

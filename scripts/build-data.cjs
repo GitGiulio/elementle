@@ -5,6 +5,7 @@ const root=path.join(__dirname,'..');
 const source=JSON.parse(fs.readFileSync(path.join(root,'data/sources/pubchem.json'),'utf8').replace(/^\uFEFF/,''));
 const weights=JSON.parse(fs.readFileSync(path.join(root,'data/sources/atomic-weights.json'),'utf8'));
 const overrides=JSON.parse(fs.readFileSync(path.join(root,'data/sources/configuration-overrides.json'),'utf8'));
+const classicHints=JSON.parse(fs.readFileSync(path.join(root,'data/sources/classic-hints.json'),'utf8'));
 // These saved tables have rowspans and some omitted opening <tr> tags.
 // Split on closing rows and carry the atomic number into the child rows.
 function isotopeRows(file) {
@@ -60,16 +61,16 @@ const elements=source.map(row=>{
   // Bulk phase is deliberately unknown where observations are insufficient.
   const unknown=n===85||n===87||n>=99;
   const phase=unknown?{value:'unknown',certainty:'unknown'}:{value:row.StandardState.toLowerCase(),certainty:'measured'};
-  const classification=`This element belongs to the ${family} family.`;
   const electronConfiguration={notation:overrides[n]?.notation||row.ElectronConfiguration.replace(/\s*\((?:calculated|predicted)\)/g,''),certainty:n>=104?'predicted':'tabulated'};
   const config=`Its ${electronConfiguration.certainty} electron configuration is ${electronConfiguration.notation}.`;
   const selected=isotopes[n]||radioactive[n];
   if(!selected)throw new Error(`No sourced isotope for atomic number ${n}`);
   const {rank,...isotope}=selected;
-  const position=`Look in period ${period}, ${group===null?'in one of the two detached rows':`group ${group}`} of the periodic table.`;
+  const hints=classicHints[n]?.hints;
+  if(!Array.isArray(hints)||hints.length!==3)throw new Error(`Expected three Classic hints for atomic number ${n}`);
   return {atomicNumber:n,name:row.Name,symbol:row.Symbol,family,period,group,
     atomicMass:weight?{display:weight,kind:'standard-weight'}:{display:'Not assigned',kind:'unknown'},
-    phase,isotope,electronConfiguration,recallClue:config,hints:[classification,position,config]};
+    phase,isotope,electronConfiguration,recallClue:config,hints};
 });
 if(elements.length!==118) throw new Error('Expected 118 source records');
 fs.writeFileSync(path.join(root,'data/elements.js'),

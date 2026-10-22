@@ -1,6 +1,7 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
 const elements = require('../data/elements.js');
+const classicHints = require('../data/sources/classic-hints.json');
 
 const families = {
   Nonmetal: [1,6,7,8,15,16,34], 'Noble Gas':[2,10,18,36,54,86,118],
@@ -11,9 +12,23 @@ const families = {
   Lanthanide:[57,58,59,60,61,62,63,64,65,66,67,68,69,70,71],
   Actinide:[89,90,91,92,93,94,95,96,97,98,99,100,101,102,103]
 };
-test('clues teach structural properties rather than ambiguous historical milestones',()=>{
-  assert.equal(elements[12].hints[0],'This element belongs to the Metal family.');
-  assert.equal(elements[19].hints[0],'This element belongs to the Alkaline Earth Metal family.');
+test('Classic hints teach sourced facts without exposing the answer or reusing structural clues',()=>{
+  assert.deepEqual(Object.keys(classicHints).map(Number),elements.map(e=>e.atomicNumber));
+  for(const e of elements) {
+    assert.equal(new Set(e.hints).size,3,e.name);
+    assert.ok(classicHints[e.atomicNumber].sources.length>0,e.name);
+    assert.ok(classicHints[e.atomicNumber].sources.every(url=>url.startsWith('https://')),e.name);
+    for(const hint of e.hints) {
+      assert.ok(!/belongs to the|Look in period|electron configuration/.test(hint),`${e.name}: ${hint}`);
+      const words=hint.toLowerCase().match(/[a-z]+/g)||[];
+      for(const name of [e.name,...(e.atomicNumber===13?['Aluminium']:[]),...(e.atomicNumber===55?['Caesium']:[])])
+        assert.ok(!words.includes(name.toLowerCase()),`${e.name}: ${hint}`);
+      if(e.symbol.length>1)assert.ok(!new RegExp(`\\b${e.symbol}\\b`).test(hint),`${e.name}: ${hint}`);
+    }
+  }
+  assert.match(elements[15].hints.join(' '),/yellow/);
+  assert.match(elements[15].hints.join(' '),/odourless/);
+  assert.match(elements[12].hints.join(' '),/1825/);
   assert.equal(elements[13].recallClue,'Its tabulated electron configuration is [Ne]3s2 3p2.');
 });
 test('all 118 identities and official family memberships are complete', () => {

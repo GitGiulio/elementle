@@ -9,7 +9,13 @@ Retrieved 19 October 2026. No source is contacted while playing.
 
 Phase labels refer to 20 °C and 1 atm. The familiar gas/liquid/solid assignments used here do not change between 20 and 25 °C. Bulk phases of astatine, francium, and elements 99–118 are conservatively **Unknown**; synthetic-element predictions in PubChem are not relabelled as measurements.
 
-Three locally written hint templates per element use its family, period/group, and electron configuration. The Recall description gives its tabulated or explicitly predicted electronic configuration. Configurations of short-lived synthetic atoms are tabulated values, not claims of measured bulk properties. No target name or standalone target symbol is included in a Recall description. Noble-gas core notation refers to a different element.
+## Classic hints
+
+Rewritten and checked 22 October 2026. `sources/classic-hints.json` contains three individually written hints and source links for every element, covering appearance, physical properties, uses, natural occurrence, naming and discovery. The main reference is the [Royal Society of Chemistry periodic table](https://periodic-table.rsc.org/); the file links each individual element page. Supplementary references include PubChem for pure sulfur's lack of odour, European Commission material on zinc oxide, published glass-polishing research, EPA material on coloured glass, and institutional histories from Berkeley, GSI, RIKEN, Oak Ridge and Lawrence Livermore for synthetic elements.
+
+Hints distinguish the pure element from its compounds, alloys and isotopes. Dates describe the stated milestone, such as identification, isolation, production or publication. Unresolved discovery disputes are described without assigning an unsupported sole discoverer. Known prehistoric materials are not given a fictitious modern discovery date. For very heavy elements, hints use documented synthesis and naming facts instead of treating predicted bulk appearance as observed. The prose is original; reference-page text and images are not redistributed.
+
+Classic still selects one of the three hints per round. No external references are fetched during play. The Recall description remains its tabulated or explicitly predicted electronic configuration. Configurations of short-lived synthetic atoms are tabulated values, not claims of measured bulk properties. No target name or standalone target symbol is included in a Recall description. Noble-gas core notation refers to a different element.
 
 ## Isotopes and the interactive atom model
 
@@ -23,6 +29,6 @@ The generator exposes `isotope` (mass number, basis and abundance or half-life) 
 
 `atom.js` samples squared hydrogen-like radial wavefunctions (associated Laguerre polynomials) and real s/p/d/f spherical-harmonic angular forms, including radial/angular nodes. Shell radii are rescaled for readability: these are not self-consistent many-electron calculations or relativistic orbital maps. The centred close-packed nucleus contains exactly A schematic nucleons, not a measured nuclear arrangement. Bright dots illustrate electron occupancy, not measured locations or trajectories. Clouds and electron markers use distinct light colours for s/p/d/f types; colour does not encode charge or wavefunction phase.
 
-Discovery-year tags in the source can refer to historical material use or different milestones rather than first elemental isolation. For example, RSC records [aluminum production in 1825](https://periodic-table.rsc.org/element/13/aluminium) and [calcium isolation in 1808](https://periodic-table.rsc.org/element/20/calcium), although both are tagged Ancient in the source snapshot. The game therefore deliberately excludes discovery-year tags from clues and teaches structural properties instead.
+Discovery-year tags in the PubChem snapshot can refer to historical material use or different milestones rather than first elemental isolation. The generator does not use these tags for hints. For example, the curated hints use [aluminum production in 1825](https://periodic-table.rsc.org/element/13/aluminium) and [calcium isolation in 1808](https://periodic-table.rsc.org/element/20/calcium), although both carry an Ancient tag in the older snapshot.
 
 `scripts/build-data.cjs` can regenerate the ready-to-play `elements.js` from the saved factual snapshots using Node. This is a maintainer tool, not a build requirement for playing.
